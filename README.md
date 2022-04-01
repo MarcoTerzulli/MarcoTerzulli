@@ -1,6 +1,6 @@
 ## About Me
 
-* 🎓 MCS Student at **University of Modena and Reggio Emilia**
+* 🎓 MCS Student at [**University of Modena and Reggio Emilia**](https://www.unimore.it/)
 * 💻 Tech is my Passion
 * 🚀 BTC and ETH Miner
 * 📬 terzulli.marco9 *at* gmail.com
