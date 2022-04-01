@@ -3,7 +3,7 @@
 * 🎓 MCS Student at **University of Modena and Reggio Emilia**
 * 💻 Tech is my Passion
 * 🚀 BTC and ETH Miner
-* 📬 terzulli.marco9@gmail.com
+* 📬 terzulli.marco9 *at* gmail.com
 
 <!---
 - 👋 Hi, I’m @MarcoTerzulli
