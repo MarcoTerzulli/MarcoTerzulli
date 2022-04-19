@@ -11,7 +11,7 @@ I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm 
 
 Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment. I also find PC assembly and overclocking techniques very intersting.
 
-## Some of My GitHub Stats 📈
+## My GitHub Stats 📈
 <!--- ![Profile views](https://gpvc.arturio.dev/MarcoTerzulli)<br> -->
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTerzulli&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTerzulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
