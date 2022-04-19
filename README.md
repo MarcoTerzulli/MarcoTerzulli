@@ -1,4 +1,4 @@
-# Hi, I'm Marco! 👋🏻👩🏻‍💻
+# Hi, I'm Marco! 👩🏻‍💻
 
 I'm a **Doctor in Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
 
