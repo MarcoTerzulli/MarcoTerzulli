@@ -13,7 +13,7 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 
 ## Some of My GitHub Stats 📈
 <!--- ![Profile views](https://gpvc.arturio.dev/MarcoTerzulli)<br> -->
-[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTerzulli)](https://github.com/anuraghazra/github-readme-stats)      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTerzulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTerzulli)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTerzulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ## Get In Touch With Me 🌎
