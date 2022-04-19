@@ -1,6 +1,6 @@
 # Hi, I'm Marco! 👋🏻👩🏻‍💻
 
-I'm a **Doctor in Computer Science**. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
+I'm a **Doctor in Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
 
 I'm a versatile programmer in various programming languages, such as **C**, **C++**, **Java** and **Python**.
 I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm able to work with the most popular DBMS such as **MySQL**, **PostgreSQL** and **MongoDB**.
