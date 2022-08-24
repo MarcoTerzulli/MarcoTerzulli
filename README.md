@@ -9,8 +9,6 @@ I'm a **Doctor of Computer Science**, based in Italy 🇮🇹. Currently enrolle
 I'm a versatile programmer in various programming languages, such as **C**, **C++**, **Java** and **Python**.<br>
 I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm able to work with the most popular DBMS such as **MySQL**, **PostgreSQL** and **MongoDB**.
 
-Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment. I also find PC assembly and overclocking techniques very intersting.
-
 ## My GitHub Stats 📈
 <!--- ![Profile views](https://gpvc.arturio.dev/MarcoTerzulli)<br> -->
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTerzulli&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
