@@ -12,7 +12,7 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 
 ## Connect with Me: 
 
-[<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/email.svg" />][email]
+[<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mail.svg" />][email]
 [<img align="left" alt="Marco Terzulli | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marco Terzulli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br>
