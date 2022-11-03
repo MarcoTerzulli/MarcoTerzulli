@@ -1,5 +1,10 @@
 # Hi, I'm Marco! 👩🏻‍💻
 
+
+[![Gmail Badge](https://img.shields.io/badge/-terzulli.marco9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:terzulli.marco9@gmail.com)](mailto:terzulli.marco9@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
+[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
+
 I'm a **Doctor of Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
 
 I'm a versatile programmer in various programming languages, such as **C**, **C++**, **Java** and **Python**.<br>
@@ -9,14 +14,14 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 <br>
 <br>
 
-
+<!--
 ## Connect with Me: 
 
 [<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="Marco Terzulli | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marco Terzulli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br>
-<br>
+<br> -->
 
 
 ### Languages:
