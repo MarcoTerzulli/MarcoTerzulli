@@ -7,11 +7,13 @@ I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm 
 
 Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment, always ready to learn new things.
 
-## Get in Touch with Me: 
 
-[![Gmail Badge](https://img.shields.io/badge/-terzulli.marco9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:terzulli.marco9@gmail.com)](mailto:terzulli.marco9@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
-[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
+## Connect with Me: 
+
+[<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][email]
+[<img align="left" alt="Marco Terzulli | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Marco Terzulli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 
 ## Languages and Tools:
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -34,6 +36,17 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 [![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoTerzulli&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTerzulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<!-- Collegamenti -->
+[email]: mailto:terzulli.marco9@gmail.com
+[linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/
+[twitter]: https://www.twitter.com/https://twitter.com/Marco_Terzulli/
+
+
+
+
+
+
 <!---
 ## Get In Touch With Me 🌎
 * 📬 terzulli.marco9 *at* gmail.com
@@ -46,6 +59,17 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 * https://github.com/anuraghazra/github-readme-stats
 * https://github.com/arturssmirnovs/github-profile-views-counter
 * https://github.com/simple-icons/simple-icons
+
+-->
+
+
+
+<!--
+## Connect with Me: 
+
+[![Gmail Badge](https://img.shields.io/badge/-terzulli.marco9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:terzulli.marco9@gmail.com)](mailto:terzulli.marco9@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
+[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
 
 -->
 
