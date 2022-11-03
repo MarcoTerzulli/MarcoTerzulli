@@ -6,6 +6,8 @@ I'm a versatile programmer in various programming languages, such as **C**, **C+
 I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm able to work with the most popular DBMS such as **MySQL**, **PostgreSQL** and **MongoDB**.
 
 Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment, always ready to learn new things.
+<br>
+<br>
 
 
 ## Connect with Me: 
@@ -13,6 +15,8 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 [<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/gmail.svg" />][email]
 [<img align="left" alt="Marco Terzulli | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Marco Terzulli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<br>
+<br>
 
 
 ## Languages and Tools:
