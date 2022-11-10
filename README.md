@@ -5,10 +5,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
 
-I'm a **Doctor of Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
+**Doctor of Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
 
+<!--
 I'm a versatile programmer in various programming languages, such as **C**, **C++**, **Java** and **Python**.<br>
 I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm able to work with the most popular DBMS such as **MySQL**, **PostgreSQL** and **MongoDB**.
+-->
+Versatile developer in various programming languages, with a keen interest in **Back-End Web Developement** and **Big Data Administration**.
 
 Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment, always ready to learn new things.
 <br>
