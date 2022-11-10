@@ -48,6 +48,7 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Dataspell" width="26px" src="https://seeklogo.com/images/D/dataspell-logo-06435B9CF3-seeklogo.com.png" />
 <img align="left" alt="Clion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Clion.svg" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
 <img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
