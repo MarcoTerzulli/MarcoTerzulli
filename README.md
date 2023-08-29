@@ -5,26 +5,15 @@
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
 [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
 
-**Doctor of Computer Science**, based in Italy 🇮🇹. Currently enrolled in the Master's Degree Course in Computer Science at [**University of Modena and Reggio Emilia**](https://www.unimore.it/).
+**Master's Degree in Computer Sciences** at [**University of Modena and Reggio Emilia**](https://www.unimore.it/). Based in Italy 🇮🇹. 
 
-<!--
-I'm a versatile programmer in various programming languages, such as **C**, **C++**, **Java** and **Python**.<br>
-I prefer **Back-End Web Developement** and the **Big Data Administration**; I'm able to work with the most popular DBMS such as **MySQL**, **PostgreSQL** and **MongoDB**.
--->
-Versatile developer in various programming languages, with a keen interest in **Back-End Web Developement** and **Big Data Administration**.
 
-Computer Science and tech are my biggest passions: I'm always updated about the latest news and trends of the moment, always ready to learn new things.
+My experience spans a diverse range of technologies, making me a highly versatile professional figure.<br>
+I have solid skills in development using the most popular programming languages such as **Python**, **C++** and **C#**, and a keen interest in **Back-End Web Developement** and **Big Data Administration**.
+
+I am constantly looking for new challenges to broaden my technical skills and to contribute to the success of business processes.
 <br>
 <br>
-
-<!--
-## Connect with Me: 
-
-[<img align="left" alt="Marco Terzulli | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Marco Terzulli | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Marco Terzulli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<br>
-<br> -->
 
 
 ### Languages:
@@ -66,21 +55,14 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoTerzulli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+
+
 <!-- Collegamenti -->
 [email]: mailto:terzulli.marco9@gmail.com
 [linkedin]: https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/
 [twitter]: https://www.twitter.com/https://twitter.com/Marco_Terzulli/
 
-
-
-
-
-
-<!---
-## Get In Touch With Me 🌎
-* 📬 terzulli.marco9 *at* gmail.com
-* ⚡️ [All My Links](https://allmylinks.com/terzullimarco)
--->
 
 
 <!--- Link utili 
@@ -93,39 +75,6 @@ Computer Science and tech are my biggest passions: I'm always updated about the 
 
 
 
-<!--
-## Connect with Me: 
-
-[![Gmail Badge](https://img.shields.io/badge/-terzulli.marco9@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:terzulli.marco9@gmail.com)](mailto:terzulli.marco9@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/marcoterzulli-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/)](https://www.linkedin.com/in/https://www.linkedin.com/in/marcoterzulli/) 
-[![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/Marco_Terzulli-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Marco_Terzulli/)](https://www.twitter.com/https://twitter.com/Marco_Terzulli/) 
-
--->
-
-
-
-<!---
-## About Me
-* 🎓 MCS Student at [**University of Modena and Reggio Emilia**](https://www.unimore.it/)
-* 💻 Tech is my Passion
-* 🚀 BTC and ETH Miner
-* 📬 terzulli.marco9 *at* gmail.com
-
---->
-
-<!---
-## Get In Touch With Me
-* 📬 terzulli.marco9 *at* gmail.com
-* ⚡️ [All My Links](https://allmylinks.com/terzullimarco)
---->
-
-<!---
-- 👋 Hi, I’m @MarcoTerzulli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 
 <!---
 MarcoTerzulli/MarcoTerzulli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
